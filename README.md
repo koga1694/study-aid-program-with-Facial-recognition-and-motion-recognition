@@ -11,7 +11,8 @@
 + Python
 + Anaconda
 + Jupyter Notebook
-+ Tensorflow == 2.7
++ Tensorflow
++ Keras
 + Numpy
 + Mediapipe
 + Opencv
