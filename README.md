@@ -19,3 +19,6 @@
 + Numpy
 + Mediapipe
 + OpenCV
+
+## 학습 모델 링크(
++ https://drive.google.com/file/d/17hAwmwnbK3X7bvdE3EMbxPvhvwCArXNO/view?usp=sharing
