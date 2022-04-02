@@ -15,4 +15,4 @@
 + Keras
 + Numpy
 + Mediapipe
-+ Opencv
++ OpenCV
